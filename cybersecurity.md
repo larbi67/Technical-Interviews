@@ -38,6 +38,19 @@ This document is intended to provide resources and common interview questions fo
 
 - [Cybrary offers a wide range of free and paid cybersecurity courses](https://www.cybrary.it/)
 - [SecurityTube offers free video courses on a wide range of cybersecurity topics, including ethical hacking and penetration testing](http://www.securitytube.net/)
+- [Cybertalents](https://www.cybertalents.com/)
+- [Hack The Box](https://www.hackthebox.eu/)
+- [TryHackMe](https://tryhackme.com/)
+- [OverTheWire](https://overthewire.org/)
+- [VulnHub](https://www.vulnhub.com/)
+- [RootMe](https://www.root-me.org/)
+- [Pwnable.kr](http://pwnable.kr/)
+- [Microcorruption](https://microcorruption.com/)
+- [RingZer0 Team](https://ringzer0ctf.com/)
+- [PicoCTF](https://picoctf.com/)
+- [HackThisSite](https://www.hackthissite.org/)
+- [CTF365](https://ctf365.com/)
+- [Hacker101](https://www.hacker101.com/)
 
 Feel free to contribute to this list by submitting pull requests.
 
