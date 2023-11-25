@@ -38,7 +38,10 @@ This document is intended to provide resources and common interview questions fo
 
 - [Cybrary offers a wide range of free and paid cybersecurity courses](https://www.cybrary.it/)
 - [SecurityTube offers free video courses on a wide range of cybersecurity topics, including ethical hacking and penetration testing](http://www.securitytube.net/)
-- [Cybertalents](https://www.cybertalents.com/)
+
+## Capture The Flag (CTF) learning platforms
+
+- [Cybertalents](https://cybertalents.com/)
 - [Hack The Box](https://www.hackthebox.eu/)
 - [TryHackMe](https://tryhackme.com/)
 - [OverTheWire](https://overthewire.org/)
