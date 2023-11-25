@@ -1,6 +1,6 @@
 # Cybersecurity for Technical Interviews
 
-This document is intended to provide resources and common interview questions for Python programming.
+This document is intended to provide resources and common interview questions for cybersecurity.
 
 ## Frequently Asked Questions
 
@@ -13,26 +13,26 @@ This document is intended to provide resources and common interview questions fo
 3. **What is a zero-day exploit ?**
    - A zero-day exploit is a cyber attack that occurs on the same day a weakness is discovered in software. At that point, the software developers haven't had any time to create patches to fix the vulnerability.
 
-    How does a Distributed Denial of Service (DDoS) attack work?
-        Answer: A DDoS attack aims to make a service unavailable by overwhelming it with traffic from multiple sources. It typically involves a network of compromised computers (botnets) which flood the target system with traffic.
+4. **How does a Distributed Denial of Service (DDoS) attack work ?**
+   - A DDoS attack aims to make a service unavailable by overwhelming it with traffic from multiple sources. It typically involves a network of compromised computers (botnets) which flood the target system with traffic.
 
-    What are the three pillars of cybersecurity?
-        Answer: The three pillars are Confidentiality, Integrity, and Availability (CIA). Confidentiality ensures that data is accessed only by authorized users. Integrity involves maintaining the consistency, accuracy, and trustworthiness of data. Availability ensures that information is accessible to authorized users when needed.
+5. **What are the three pillars of cybersecurity ?**
+   - The three pillars are Confidentiality, Integrity, and Availability (CIA). Confidentiality ensures that data is accessed only by authorized users. Integrity involves maintaining the consistency, accuracy, and trustworthiness of data. Availability ensures that information is accessible to authorized users when needed.
 
-    What is phishing and how can it be prevented?
-        Answer: Phishing is a technique used by cybercriminals to trick individuals into revealing sensitive information, like passwords or credit card numbers, by posing as a legitimate entity in an email or other communication. It can be prevented through user education, spam filters, and two-factor authentication.
+6. **What is phishing and how can it be prevented ?**
+   - Phishing is a technique used by cybercriminals to trick individuals into revealing sensitive information, like passwords or credit card numbers, by posing as a legitimate entity in an email or other communication. It can be prevented through user education, spam filters, and two-factor authentication.
 
-    What is the principle of least privilege and why is it important in cybersecurity?
-        Answer: The principle of least privilege means giving users only the access that is strictly necessary for them to perform their jobs. It reduces the risk of an attacker gaining access to critical systems or sensitive data through a less-secure user account.
+7. **What is the principle of least privilege and why is it important in cybersecurity ?**
+   - The principle of least privilege means giving users only the access that is strictly necessary for them to perform their jobs. It reduces the risk of an attacker gaining access to critical systems or sensitive data through a less-secure user account.
 
-    Explain what is meant by a 'honeypot' in cybersecurity.
-        Answer: A honeypot is a security mechanism set to detect, deflect, or study attempts at unauthorized use of information systems. Typically, it consists of a computer, data, or a network site that appears to be part of a network but is actually isolated and monitored.
+8. **Explain what is meant by a 'honeypot' in cybersecurity ?**
+   - A honeypot is a security mechanism set to detect, deflect, or study attempts at unauthorized use of information systems. Typically, it consists of a computer, data, or a network site that appears to be part of a network but is actually isolated and monitored.
 
-    What steps would you take to secure a newly deployed server?
-        Answer: Secure a new server by updating all software, installing only necessary services, configuring firewalls, setting up intrusion detection systems, applying the principle of least privilege for user accounts, using strong passwords, and regularly applying patches.
+9. **What steps would you take to secure a newly deployed server ?**
+   - Secure a new server by updating all software, installing only necessary services, configuring firewalls, setting up intrusion detection systems, applying the principle of least privilege for user accounts, using strong passwords, and regularly applying patches.
 
-    How do you stay updated with current cybersecurity threats and trends?
-        Answer: This can include following cybersecurity news sources, subscribing to security mailing lists, participating in relevant forums and online communities, attending webinars and conferences, and undergoing continuous training.
+10. **How do you stay updated with current cybersecurity threats and trends ?**
+    - This can include following cybersecurity news sources, subscribing to security mailing lists, participating in relevant forums and online communities, attending webinars and conferences, and undergoing continuous training.
 
 ## Resources for Further Learning
 
