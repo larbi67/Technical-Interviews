@@ -4,23 +4,14 @@ This document is intended to provide resources and common interview questions fo
 
 ## Frequently Asked Questions
 
-1. **What is PEP 8 and why is it important?**
-   - PEP 8 is the style guide for writing Python code. It helps in maintaining the code readable and consistent.
-
-2. **Explain the difference between a list and a tuple in Python.**
-   - Lists are mutable while tuples are not. This affects how they are used in the code.
-
-3. **How does exception handling work in Python?**
-   - Python uses `try` and `catch` blocks to handle exceptions, allowing the program to continue running even in case of errors.
-
 1. **What is a Man-in-the-Middle attack and how can it be prevented ?**
    - A Man-in-the-Middle (MitM) attack occurs when an attacker intercepts communication between two parties, either to eavesdrop or to impersonate one of the parties. It can be prevented by using strong encryption protocols like TLS/SSL for data transmission, employing VPNs, and educating users about secure practices.
 
-    Explain the difference between symmetric and asymmetric encryption.
-        Answer: Symmetric encryption uses the same key for encryption and decryption, making it faster but less secure in key distribution. Asymmetric encryption uses a pair of keys (public and private) and is more secure for key distribution but slower in performance.
+2. **Explain the difference between symmetric and asymmetric encryption ?** 
+   - Symmetric encryption uses the same key for encryption and decryption, making it faster but less secure in key distribution. Asymmetric encryption uses a pair of keys (public and private) and is more secure for key distribution but slower in performance.
 
-    What is a zero-day exploit?
-        Answer: A zero-day exploit is a cyber attack that occurs on the same day a weakness is discovered in software. At that point, the software developers haven't had any time to create patches to fix the vulnerability.
+3. **What is a zero-day exploit ?**
+   - A zero-day exploit is a cyber attack that occurs on the same day a weakness is discovered in software. At that point, the software developers haven't had any time to create patches to fix the vulnerability.
 
     How does a Distributed Denial of Service (DDoS) attack work?
         Answer: A DDoS attack aims to make a service unavailable by overwhelming it with traffic from multiple sources. It typically involves a network of compromised computers (botnets) which flood the target system with traffic.
