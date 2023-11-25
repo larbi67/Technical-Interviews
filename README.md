@@ -17,4 +17,4 @@ If you wish to contribute to this repository, please feel free to submit a pull 
 
 ### License
 
-This project is licensed under MIT. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under MIT License. See the [LICENSE](LICENSE) file for more details.
