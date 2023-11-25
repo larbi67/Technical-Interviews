@@ -36,8 +36,8 @@ This document is intended to provide resources and common interview questions fo
 
 ## Resources for Further Learning
 
-- [Official Python Documentation](https://www.python.org/doc/)
-- [Python Tutorials on Real Python](https://realpython.com/)
+- [Cybrary offers a wide range of free and paid cybersecurity courses](https://www.cybrary.it/)
+- [SecurityTube offers free video courses on a wide range of cybersecurity topics, including ethical hacking and penetration testing](http://www.securitytube.net/)
 
 Feel free to contribute to this list by submitting pull requests.
 
